@@ -11,7 +11,7 @@ Check SFile Account (Income, Total Download, Total Files, ETC)
 RealSht ShortLink Bypasser
 ```
 ### Screenshot:
-![x](https://github.com/xolvaid/sfile/blob/main/ss.jpg)
+![x](https://github.com/xolvaid/sfile/blob/main/ss1.jpg)
 
 ### How To Use?, Paste The Following Commands To Your Terminal
 ```
