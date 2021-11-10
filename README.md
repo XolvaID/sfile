@@ -29,7 +29,7 @@ apt install python3 -y
 pip install requests
 pip install bs4
 git clone https://github.com/XolvaID/sfile.git
-cd netxploit
+cd sfile
 python3 sfile.py
 ```
 
